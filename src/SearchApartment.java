@@ -91,7 +91,6 @@ public class SearchApartment {
             "Чернігів",
             "Чернівці",
     };
-
     public static String[] habitationType = {
             "Однокімнатну",
             "Двохкімнатну",
